@@ -1,0 +1,42 @@
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Bot Application.dll.config
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Bot Application.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Bot Application.pdb
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Autofac.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Chronic.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.Bot.Builder.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.Bot.Connector.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Newtonsoft.Json.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\System.Net.Http.Formatting.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\System.Web.Http.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\System.Web.Http.WebHost.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Autofac.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.Bot.Builder.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.Bot.Connector.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Newtonsoft.Json.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\System.Net.Http.Formatting.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\System.Web.Http.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\System.Web.Http.WebHost.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\obj\Release\BotExample.csprojResolveAssemblyReference.cache
+C:\Users\tadriano\source\repos\BotExample\BotExample\obj\Release\BotExample.csproj.CoreCompileInputs.cache
+C:\Users\tadriano\source\repos\BotExample\BotExample\obj\Release\BotExample.csproj.CopyComplete
+C:\Users\tadriano\source\repos\BotExample\BotExample\obj\Release\Bot Application.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\obj\Release\Bot Application.pdb
