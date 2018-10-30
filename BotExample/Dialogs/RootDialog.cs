@@ -28,30 +28,39 @@ namespace BotExample.Dialogs
             var url = String.Format("https://viacep.com.br/ws/{0}/json/", activity.Text);
 
 
-            using (WebClient wc = new WebClient())
+            try
             {
-                var json = wc.DownloadString(url);
-                JavaScriptSerializer jss = new JavaScriptSerializer();
-                address = jss.Deserialize<Models.Address>(json);
+                using (WebClient wc = new WebClient())
+                {
+                    var json = wc.DownloadString(url);
+                    JavaScriptSerializer jss = new JavaScriptSerializer();
+                    address = jss.Deserialize<Models.Address>(json);
+                }
+
+
+                if (address != null)
+                {
+
+                    await context.PostAsync($"Resultado:" +
+                        $" Endreço: {address.Logradouro} \n " +
+                        $" Bairro: {address.Bairro} \n" +
+                        $" Estado: {address.Localidade} \n" +
+                        $" Cep: {address.Cep} ");
+
+
+
+                }
+                else
+                {
+                    await context.PostAsync($"Nenhum endereço encontrado!");
+                }
+            }
+            catch (Exception ex)
+            {
+
+                await context.PostAsync($"Error:{ex.Message}");
             }
 
-
-            if (address != null)
-            {
-
-                await context.PostAsync($"Resultado:" +
-                    $" Endreço: {address.Logradouro} \n " +
-                    $" Bairro: {address.Bairro} \n" +
-                    $" Estado: {address.Localidade} \n" +
-                    $" Cep: {address.Cep} ");
-
-
-
-            }
-            else
-            {
-                await context.PostAsync($"Nenhum endereço encontrado!");
-            }
 
 
             context.Wait(MessageReceivedAsync);

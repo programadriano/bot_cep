@@ -39,3 +39,22 @@ C:\Users\tadriano\source\repos\BotExample\BotExample\obj\Debug\BotExample.csproj
 C:\Users\tadriano\source\repos\BotExample\BotExample\obj\Debug\BotExample.csproj.CopyComplete
 C:\Users\tadriano\source\repos\BotExample\BotExample\obj\Debug\Bot Application.dll
 C:\Users\tadriano\source\repos\BotExample\BotExample\obj\Debug\Bot Application.pdb
+C:\Users\tadriano\source\repos\BotExample\BotExample\obj\Debug\BotExample.csprojResolveAssemblyReference.cache
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\tadriano\source\repos\BotExample\BotExample\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
